@@ -20,6 +20,7 @@ const Home: NextPage = () => {
 
         <p className={styles.description}>
           Get started by editing{' '} HHHH
+          Test 2
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
